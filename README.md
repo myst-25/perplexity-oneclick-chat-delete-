@@ -29,6 +29,8 @@ Choose one of the following browser extensions and install it:
 * **[Violentmonkey](https://violentmonkey.github.io/)** (Open source - Chrome, Firefox, Edge)
 * **[Greasemonkey](https://www.greasespot.net/)** (Firefox only)
 
+### Click Here to direct install - **[Click Me]()**
+
 ### Step 2: Install the Script
 **Option A: Install via GreasyFork (Recommended)**
 1. Go to the script's GreasyFork page: `[Insert your GreasyFork link here]`
