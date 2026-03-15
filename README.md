@@ -33,7 +33,7 @@ Choose one of the following browser extensions and install it:
 
 ### Step 2: Install the Script
 **Option A: Install via GreasyFork (Recommended)**
-1. Go to the script's GreasyFork page: `[Insert your GreasyFork link here]`
+1. Go to the script's GreasyFork page: ###[GreasyFork](https://github.com/myst-25/perplexity-oneclick-chat-delete-/blob/main/perplexity_all-chats-delete.js)
 2. Click the green **"Install this script"** button.
 3. Your userscript manager will prompt you to confirm the installation. Click **Install**.
 
